@@ -1,2 +1,3 @@
 amount,cash,checkout,
-debit,cirdit
+debit,cirdit,
+holgder name: rehan
